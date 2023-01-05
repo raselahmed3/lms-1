@@ -3,7 +3,7 @@
         <tr>
             <th class="border px-4 py-2 text-left">Name</th>
             <th class="border px-4 py-2 text-left">Email</th>
-            <th class="border px-4 py-2 text-left">Permission</th>
+            <th class="border px-4 py-2 text-left">Role</th>
             <th class="border px-4 py-2">Actions</th>
         </tr>
         @foreach ($users as $user)
